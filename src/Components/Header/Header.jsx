@@ -12,8 +12,6 @@ const Header = () => {
         <div>
             <Link to="/tvshows">TV Shows</Link>
             <Link to="/tvshows">Movies</Link>
-            <Link to="/tvshows">TV Shows</Link>
-            <Link to="/tvshows">TV Shows</Link>
         </div>
         <ImSearch/>
       </nav>
